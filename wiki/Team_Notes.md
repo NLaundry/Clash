@@ -30,3 +30,9 @@ Notes On how we can improve as a team
         * Know the wincons of each team comp (do we engage as 5, look to split, etc)
         * Knowing lane counters
         * Know the strengths of the opponents draft
+    * Vision:
+        * Ward - stops us from losing
+        * Deward - snowballs us
+    * Game Knowledge:
+        * We should all work on having a better understanding of what plays should happen next:
+            * Taking dragons, rotations, macro play in general
