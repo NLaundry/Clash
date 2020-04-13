@@ -6,13 +6,13 @@
 
 * Kha'zix:
     * Champion Type:    Assassin, Diver
-    * Strengths:        ...
-    * Weaknesses:       ...
-    * Spikes:           ...
+    * Strengths:        High tempo with ganks, Great picks, High mobility
+    * Weaknesses:       Squishy, not great for team fights ( thought's Francis )?
+    * Spikes:           6 with evolved Q
     * Improvements:
-* Champ2:
+* :
 
 ## Meta Gameplay Notes
 
-* Stronger mental ;)
 * Put personal goals for improvement here not related to champion specific mechanics
+* Stronger mental ;)

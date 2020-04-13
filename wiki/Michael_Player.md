@@ -6,11 +6,22 @@
 
 * Lee Sin:
     * Champion Type:    Fighter, Diver
-    * Strengths:        ...
-    * Weaknesses:       ...
-    * Spikes:       ...
+    * Strengths:        Early game aggression, pick potential, objective control
+    * Weaknesses:       Scales off late game
+    * Spikes:           Michael can answer this better than me
+    * Improvements:     
+* Kled:
+    * Champion Type:    Fighter, Diver
+    * Strengths:        Strong/fast engage, Strong fighter
+    * Weaknesses:       I don't really know the champ tbh
+    * Spikes:           Michael can answer this better than me
     * Improvements:
-* Champ2:
+* Jarvan:
+    * Champion Type:    Fighter/Tank, Diver
+    * Strengths:        Strong team fighter, great pick potential, tank or damage potential
+    * Weaknesses:       Unsure
+    * Spikes:           Michael can answer this better than me
+    * Improvements:
 
 ## Meta Gameplay Notes
 
