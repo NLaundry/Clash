@@ -1,5 +1,9 @@
 # Team Comps
 
+* Notes for discussion:
+    * Team comp goals
+    * Objectives for each role
+
 * Hard Engage comp
 	* Top/JG: Kled, Kha'zix, FiddleSticks, 
 	* Top: Rumble, Aatrox
@@ -18,7 +22,6 @@
 	* Top: Kled
 	* JG: Panth
 	* Mid: Ryze, Ekko, Qiyana
-	
 	* Safe bot:
 		ADC: Ezreal, Tristana, Ashe
 		Support: Morgana
