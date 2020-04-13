@@ -4,9 +4,10 @@ Notes for individual players:
     * Champ pool
     * Goals for improvement
 
-* [Chris](Chris)
-* [Elijah](Elijah)
-* [Francis](Francis)
-* [Kaiser](Kaiser)
-* [Michael](Michael)
-* [Nathan](Nathan)
+Players:
+    * [Chris](Chris_Player)
+    * [Elijah](Elijah_Player)
+    * [Francis](Francis_Player)
+    * [Kaiser](Kaiser_Player)
+    * [Michael](Michael_Player)
+    * [Nathan](Nathan_Player)
