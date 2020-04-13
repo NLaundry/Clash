@@ -14,4 +14,5 @@
 
 ## Meta Gameplay Notes
 
+* Stronger mental ;)
 * Put personal goals for improvement here not related to champion specific mechanics

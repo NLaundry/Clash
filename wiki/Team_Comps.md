@@ -9,7 +9,7 @@
 	* Top: Rumble, Aatrox
 	* Mid: Orianna, Viktor
 	* Supp: Morgana, Leona, Braum
-	* ADC: Varus, Kai'sa, Jinx, Ashe
+	* ADC: Varus, Kai'sa, Ashe
 
 * Pick Comp
 	* Top: Nautilus
